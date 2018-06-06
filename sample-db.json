@@ -1,0 +1,19 @@
+{
+    "cities": [
+        {
+            "id": 1,
+            "name": "toulouse",
+            "temp": "24"
+        },
+        {
+            "id": 2,
+            "name": "bordeaux",
+            "temp": "20"
+        },
+        {
+            "id": 3,
+            "name": "paris",
+            "temp": "21"
+        }
+    ]
+}
